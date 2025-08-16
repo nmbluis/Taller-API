@@ -3,7 +3,7 @@ namespace DevWorkshop.TaskAPI.Application.DTOs.Users;
 /// <summary>
 /// DTO para mostrar información de un usuario
 /// </summary>
-public class UserDto
+public class UserDto1
 {
     /// <summary>
     /// Identificador único del usuario
